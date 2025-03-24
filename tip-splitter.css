@@ -14,8 +14,8 @@ button{
 }
 input{
     padding:10px;
-    width:200px;
-    margin:7px;
+    
+    margin:10px;
 }
 button:hover{
     background-color: rgb(182, 122, 237);

@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    margin-top: 200px;
+}
+input{
+    padding:10px;
+    margin:10px;
+}
+button{
+    padding:10px;
+    width:100px;
+    margin:7px;
+    background-color: aqua;
+    border-radius: 7px;
+    border:none;
+    color:white;
+
+}
+button:hover{
+    background-color: rgb(175, 244, 244);
+    
+
+
+}
+h1{
+    display: inline-block;
+    background-color: aqua;
+    border-radius:6px;
+    border: solid 3px;
+}
+p{
+    display: inline-block;
+    padding:20px;
+    width:150px;
+    background-color: aqua;
+    border-radius: 6px;
+    border:solid 1px;
+    margin-top: 10px;
+    transition: all 0.3s ease;
+}
