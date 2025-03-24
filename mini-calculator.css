@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    margin-top: 200px;
+}
+button{
+    padding:10px;
+    width:100px;
+    margin:7px;
+    background-color:blueviolet;
+    border-radius: 8px;
+    border:none;
+    color:white;
+    cursor:pointer;
+}
+input{
+    padding:10px;
+    width:200px;
+    margin:7px;
+}
+button:hover{
+    background-color: rgb(182, 122, 237);
+}
+p{
+    display: inline-block;
+    padding:20px;
+    width:150px;
+    background-color:yellow;
+    border:solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: all 0.3s ease;
+}
