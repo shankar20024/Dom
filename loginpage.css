@@ -1,0 +1,41 @@
+body{
+    color:white;
+    text-align:center;
+    margin:200px;
+    background-color: azure;
+}
+h1{
+   display: inline-block;
+   width:250px;
+    color : white;
+    background-color: blueviolet;
+    border-radius:10px;
+
+}
+input{
+    padding: 10px;
+    margin:6px;
+    width:200px;
+    border-radius: 6px;
+}
+button{
+    color:white;
+    width:80px;
+    border-radius: 6px;
+    border:none;
+    padding:5px ;
+    background-color: blueviolet;
+    margin:6px;
+    cursor:pointer;
+}
+button:hover{
+    background-color: rgb(160, 94, 222);
+}
+p{
+    display:inline-block;
+    color:aqua;
+    background-color: blueviolet;
+    border-radius: 6px;
+    padding:10px;
+    margin:6px;
+}
